@@ -48,6 +48,7 @@ export default function MessagesScreen() {
 
   return (
     <SafeAreaView style={styles.safe} edges={["top"]}>
+      
       {/* header */}
       <View style={styles.header}>
         <Text style={styles.title}>Conversations</Text>
